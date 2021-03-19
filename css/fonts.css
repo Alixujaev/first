@@ -1,0 +1,15 @@
+@font-face{
+    src: url(../fonts/Dosis-Bold.ttf);
+    font-weight: 700;
+    font-family: dosis;
+}
+@font-face{
+    src: url(../fonts/Dosis-Light.ttf);
+    font-weight: 300;
+    font-family: dosis;
+}
+@font-face{
+    src: url(../fonts/Dosis-Regular.ttf);
+    font-weight: 400;
+    font-family: dosis;
+}
